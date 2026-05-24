@@ -1,1 +1,2 @@
-Learning Git and Github
+Learning Git and GitHub
+Git is very useful
